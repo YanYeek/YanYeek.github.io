@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>无延YanYeek的个人博客</title>
+    <link>https://yanyeek.github.io/</link>
+    <description>Recent content on 无延YanYeek的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://yanyeek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://yanyeek.github.io/about/</link>
+      <pubDate>Fri, 10 Jun 2022 00:22:14 +0000</pubDate>
+      
+      <guid>https://yanyeek.github.io/about/</guid>
+      <description>打工人、Unity 独立游戏开发者。 一个兴趣使然的程序员 被好奇心当作奴隶的小伙 很高兴为你分享那些编程中的精彩类比 我希望你能见识到令你惊奇的事物， 我希望你能体验未曾有过的情感， 我希望你能遇见一些想法不同的人， 我希望你为自己的人生感到骄傲如果你发现自己还没有做到， 我希望你有勇气重头再来</description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://yanyeek.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanyeek.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://yanyeek.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanyeek.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
