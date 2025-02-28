@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on YanYeek无延的博客</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://YanYeek.github.io/post/</link>
     <description>Recent content in Posts on YanYeek无延的博客</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 01 Mar 2025 00:08:08 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://YanYeek.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyFirstBlog</title>
-      <link>http://localhost:1313/post/MyFirstBlog/</link>
+      <link>https://YanYeek.github.io/post/MyFirstBlog/</link>
       <pubDate>Sat, 01 Mar 2025 00:08:08 +0800</pubDate>
-      <guid>http://localhost:1313/post/MyFirstBlog/</guid>
+      <guid>https://YanYeek.github.io/post/MyFirstBlog/</guid>
       <description></description>
     </item>
   </channel>
